@@ -101,10 +101,10 @@
 .email {
     height: auto;
     display: flex;
-    padding: 40px 40px 40px 500px;
+    padding: 20px 20px 20px 600px;
     position: absolute;
     background-color: rgba(208, 239, 250, 0.979);
-    width: 100%;
+    width: 61%;
     text-align: center;
     margin: auto;
 }
@@ -112,10 +112,10 @@
 .footer {
     height: auto;
     display: flex;
-    padding: 40px 40px 40px 500px;
+    padding: 20px 20px 20px 600px;
     position: absolute;
     background-color: rgba(147, 143, 182, 0.979);
-    width: 100%;
+    width: 61%;
     text-align: center;
     margin: auto;
     color: black;
